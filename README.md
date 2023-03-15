@@ -1,17 +1,13 @@
-About lcensemble
-================
-
-Home: https://pypi.org/project/lcensemble/
-
-Package license: Apache-2.0
+About lcensemble-feedstock
+==========================
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lcensemble-feedstock/blob/main/LICENSE.txt)
 
+Home: https://lce.readthedocs.io/en/latest/
+
+Package license: Apache-2.0
+
 Summary: Local Cascade Ensemble package
-
-Development: https://github.com/LocalCascadeEnsemble/LCE
-
-Documentation: https://lce.readthedocs.io/en/latest/
 
 Current build status
 ====================
